@@ -1,0 +1,5 @@
+﻿pandas
+python-dotenv
+google-genai
+requests
+gnani-vachana==0.8.2

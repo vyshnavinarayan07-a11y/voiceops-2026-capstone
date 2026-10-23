@@ -1,0 +1,3 @@
+﻿audio_file,status,transcript,answer,reply_audio,error
+Recording.m4a.m4a,success,hello what is the return window for electrodes at centromart,"I couldn't identify that product in our catalog, so I can't reliably confirm its return window. Could you share the exact product name or SKU?",data\audio\output\Recording.m4a_reply.wav,
+Recording_16k_mono.wav,success,hello what is the return window for electrodes at centromart,"I couldn't identify that product in our catalog, so I can't reliably confirm its return window. Could you share the exact product name or SKU?",data\audio\output\Recording_16k_mono_reply.wav,
